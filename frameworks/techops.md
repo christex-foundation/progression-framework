@@ -93,7 +93,7 @@ topics:
         criteria:
           - 'Follows policies and procedures applicable to their role. Completes training.'
           - 'Accepts feedback graciously and acts on it. Gives feedback when requested'
-          - 'Builds relationships within monzo and contributes to building a supportive, knowledgeable and engaged peer group'
+          - 'Builds relationships within Christex Foundation and contributes to building a supportive, knowledgeable and engaged peer group'
           - 'Follows policies and procedures applicable to role'
           - 'Completes training'
           - 'Identifies and considers the risks related to their own work'
@@ -165,7 +165,7 @@ topics:
       - level: 1
         criteria:
           - 'Improves documentation that is incorrect'
-          - 'Brings new ideas to the table to improve technical aspects of Monzonaut’s day to day life'
+          - 'Brings new ideas to the table to improve technical aspects of employees day to day life'
       - level: 2
         criteria:
           - 'Proactively raises issues they spot in retrospectives'

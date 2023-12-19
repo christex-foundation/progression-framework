@@ -22,7 +22,7 @@ topics:
           - 'Seeks out and uncovers differing perspectives to their own.'
       - level: 3
         criteria:
-          - 'Shares insight and works with Monzonauts across People and other collectives to influence the development of Christex Foundation plans and priorities. Understands how to manage stakeholder involvement. Supports and coaches Monzonauts, particularly managers, in understanding and complying with relevant policies and practices.'
+          - 'Shares insight and works with employees across People and other collectives to influence the development of Christex Foundation plans and priorities. Understands how to manage stakeholder involvement. Supports and coaches employees, particularly managers, in understanding and complying with relevant policies and practices.'
           - 'Is comfortable with critical conversations, and gives useful actionable feedback that gets good results.'
           - 'Is able to take into account different perspectives and improve their work as a result.'
       - level: 4
@@ -58,7 +58,7 @@ topics:
           - 'Owns their workload of BAU specialist tasks and/or small- and medium-scale projects within their squad. Begins to delegate tasks out to their squad so they can focus on more complex projects.'
           - 'Works autonomously but asks for guidance when they need to. Runs meetings well inside and outside the People Collective.'
           - 'Focuses on important, urgent work while not losing sight of other things. Thinks in terms of the next few months and how they can have the highest impact in this timeframe.'
-          - "Regularly reviews and improves processes to make sure they're still working hard for Monzonauts. Identifies opportunities to automate processes and helps make this happen."
+          - "Regularly reviews and improves processes to make sure they're still working hard for employees. Identifies opportunities to automate processes and helps make this happen."
           - 'Actively suggests team goals.'
       - level: 3
         criteria:
@@ -69,7 +69,7 @@ topics:
           - 'Takes responsibility for one or more team goals to drive forward.'
       - level: 4
         criteria:
-          - 'Works on large-scale projects or manages complex verticals that affect all Monzonauts. Coaches others to delegate effectively so the whole team can achieve their goals.'
+          - 'Works on large-scale projects or manages complex verticals that affect all employees. Coaches others to delegate effectively so the whole team can achieve their goals.'
           - 'Changes existing policies, processes and communications to align with company priorities and team goals.'
           - 'Thinks in terms of the next year and how their specialism can have the highest impact in this timeframe.'
           - 'Is able to build robust and scalable processes and help manage the transition to automating all or parts of the process with product and engineering.'
@@ -161,7 +161,7 @@ topics:
           - 'Can onboard new members of the squad and act as a mentor for general processes owned by the squad.'
           - 'Builds relationships with members of other squads in People Collective. People are happy to work with them.'
           - 'Works independently on projects but brings the right people in at the right time. Helps keep track of actions and goals for the team.'
-          - 'Puts diversity and inclusion at the heart of all new work. Has strong relationships with Monzonauts across the business and proactively welcomes new joiners.'
+          - 'Puts diversity and inclusion at the heart of all new work. Has strong relationships with employees across the business and proactively welcomes new joiners.'
           - 'Participates in the interview process for roles in their squad or other People Collective roles.'
       - level: 3
         criteria:
@@ -208,7 +208,7 @@ topics:
           - "Thinks about what they need and expect from their manager and gives feedback to their manager on what's going well and what they could do better."
       - level: 2
         criteria:
-          - 'Applies and follows governance principles. Communicates and escalates risks related to their own projects and business area. Works with other Monzonauts to help them analyse and address risks in their area. Updates procedures and policies.'
+          - 'Applies and follows governance principles. Communicates and escalates risks related to their own projects and business area. Works with other employees to help them analyse and address risks in their area. Updates procedures and policies.'
           - 'Understands the importance of work-life harmony and acts as a role model for this. Is a driven and committed Monzonaut, understanding that sprints are sometimes neccessary but not a way of life.'
           - 'Leads by example, in line with Christex Foundation culture outlined in our Code of Conduct and other People policies.'
           - 'Knows what they need from their manager and shares personal insight on how their manager can work best with them. Gives their manager constructive feedback. May be working towards managing someone else.'
@@ -216,26 +216,26 @@ topics:
         criteria:
           - 'Is an expert in risk and compliance issues related to their role. Takes ownership for training others in risk & compliance as relevant to their role. Has a strong cultural understanding, and makes decisions based on cultural awareness that compliments legislation and Christex Foundation policy. Promptly and effectively deals with unforeseen risks/events as they arise and proactively shares the learnings. Creates new policies and procedures where needed.'
           - 'Supports their peers and team to achieve work-life harmony. Sets realistic expectations for healthy working practices and leads by example. Role models treating others with respect.'
-          - 'Acts as a role model for the People team and offers guidance and support to all Monzonauts.'
-          - 'Understands their role as an emerging leader and guides and supports other Monzonauts. May manage one or more Monzonauts in their squad or discipline.'
+          - 'Acts as a role model for the People team and offers guidance and support to all employees.'
+          - 'Understands their role as an emerging leader and guides and supports other employees. May manage one or more employees in their squad or discipline.'
       - level: 4
         criteria:
           - 'Is an expert in risk and compliance issues related to their discipline. Takes ownership for making sure everyone in their area follows the relevant procedures to remain compliant. Identifies and tracks new policies and procedures needed, in advance.'
           - 'Sets the standard for conduct at Christex Foundation and challenges those who fall below.'
-          - 'Known as a respectful, supportive and challenging manager; OR an individual contributor that effectively plugs into broader teams and groups in the company. May manage several Monzonauts in their discipline.'
+          - 'Known as a respectful, supportive and challenging manager; OR an individual contributor that effectively plugs into broader teams and groups in the company. May manage several employees in their discipline.'
       - level: 5
         criteria:
           - 'Develops action plans to mitigate the risk of implementing new people policies and plans. Use insights to influence leaders and colleagues to current risks or benefits of decisions or actions that affect the long-term reputation and health of Christex Foundation. Instills culture for documenting'
           - 'Brings people along with them and acts as a supporter for all members of the People Collective. Understands their responsibility as a leader at Christex Foundation and reflects that responsibility in their behaviour.'
-          - "Leads through influence, building up a network of strong relationships and presenting their ideas in the right way to lead others in the right direction. Capable of leading a team with diverse skills while giving people lots of autonomy and cultivating a CEO mindset. Thinks carefully about the right amount of leadership and is able to make themselves less necessary to the team's effective function. Is likely to manage several Monzonauts in their discipline and/or mentor Monzonauts from around the company."
+          - "Leads through influence, building up a network of strong relationships and presenting their ideas in the right way to lead others in the right direction. Capable of leading a team with diverse skills while giving people lots of autonomy and cultivating a CEO mindset. Thinks carefully about the right amount of leadership and is able to make themselves less necessary to the team's effective function. Is likely to manage several employees in their discipline and/or mentor employees from around the company."
       - level: 6
         criteria:
           - 'Is involved with risk management and mitigation at the highest industry level. Leads by example and proves their discipline is managing risk and compliance within appetite. Gets involved in and identifies opportunities for colleagues to participate in advisory, strategic, industry bodies to learn and share best practice in their area of business.'
           - 'Fosters ability for teams to enjoy the journey and work sustainably. Leads the way in achieving high performance at Christex Foundation whilst balancing outside interests and personal life harmony.'
-          - 'Empowers autonomous teams to suceed and is sought after to provide direction in multiple areas. Is able to consistently do this despite the skillsets in the teams they work with changing. Is likely to manage other managers in the People collective. Is a mentor to high potential Monzonauts around the company.'
+          - 'Empowers autonomous teams to suceed and is sought after to provide direction in multiple areas. Is able to consistently do this despite the skillsets in the teams they work with changing. Is likely to manage other managers in the People collective. Is a mentor to high potential employees around the company.'
       - level: 7
         criteria:
           - "Leads risk mitigation, governance and ethics strategies for the People Collective, in line with SMF 18 responsibilites. Creates a strong risk culture throughout the organisation. Owns policies and can prove we're complying with them. Spots ways to manage risk and implements them company wide."
           - 'Creates a culture of mutual respect where people can do the best work of their lives. Sets the strategy for continually developing our culture.'
-          - 'Is a world-class manager of leaders within the collective. Is a mentor to high potential Monzonauts and others across the industry. Coaches other execs to be better managers to senior leaders at Christex Foundation.'
+          - 'Is a world-class manager of leaders within the collective. Is a mentor to high potential employees and others across the industry. Coaches other execs to be better managers to senior leaders at Christex Foundation.'
 ---

@@ -68,7 +68,7 @@ topics:
           - 'Works with teams across the company, bridges gap between data sources'
       - level: 3
         criteria:
-          - 'Shares insight regularly, links industry events to Monzo’s work'
+          - "Shares insight regularly, links industry events to Christex Foundation's work"
           - 'Strong facilitator, improves team function'
       - level: 4
         criteria:
