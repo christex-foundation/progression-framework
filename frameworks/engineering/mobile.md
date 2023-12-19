@@ -166,7 +166,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Writes Swift or Kotlin code according to our style guides'
+          - 'Writes Flutter, Swift or Kotlin code according to our style guides'
           - 'Proactive in asking questions, explains what they have tried so far and why that hasn’t worked'
           - 'Updates layout to existing screens'
           - 'Builds simple screens or flows'
