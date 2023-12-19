@@ -40,7 +40,7 @@ const ToolbarRenderer = ({ sidebarClickHandler, isSidebarVisible }: Object) =>
     <Toolbar className={isSidebarVisible ? 'visible' : null}>
       <MenuIcon onClick={sidebarClickHandler} src={menuIcon} />
       <ToolbarPushWrapper>
-        <ToolbarIcon src={favicon} alt="Monzo" />
+        <ToolbarIcon src={favicon} alt="Christex Foundation" />
       </ToolbarPushWrapper>
     </Toolbar>
   )
@@ -57,7 +57,7 @@ const SidebarRenderer = ({
           <SidebarReset>
             <SidebarScroll>
               <ScrollbarHeader>
-                <SidebarIcon src={favicon} alt="Monzo" />
+                <SidebarIcon src={favicon} alt="Christex Foundation" />
                 <FlexboxPush>
                   <CloseIcon onClick={sidebarClickHandler} src={closeIcon} />
                 </FlexboxPush>
@@ -104,7 +104,7 @@ class Layout extends React.Component<Props, State> {
     return (
       <Contain>
         <Helmet>
-          <title>Progression at Monzo</title>
+          <title>Progression at Christex Foundation</title>
         </Helmet>
         <SidebarRenderer
           data={data}
