@@ -1,7 +1,7 @@
 ---
-path: '/design/visual-design'
-title: '🎯 Visual Design Framework'
-sidebarTitle: '🎯 Visual Design'
+path: '/design/user-interface'
+title: '🎯 User Interface Framework'
+sidebarTitle: '🎯 UI'
 sidebarGroup: 'design'
 yaml: true
 levels: 6
@@ -12,42 +12,43 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Understands the theory and fundamentals of graphic design'
-          - 'Proficient using the right tool for the job'
-          - 'Decisions based on visual design principles'
+          - 'Understands basics of visual and interaction design'
+          - 'Experience using Sketch or similar tools for design work'
+          - 'Driven to master the craft and understand design fundamentals and history'
       - level: 2
         criteria:
-          - 'Proficient in multiple aspects of design, from print to motion'
-          - 'Mastered toolkit for efficiency and speed'
+          - 'Proficient in multiple aspects of digital product design and user research'
+          - 'Utilizes time, haptics, sound, and motion effectively in product experiences'
+          - 'Mastery over design toolkit, aware of latest tool updates and efficiencies'
       - level: 3
         criteria:
-          - 'Mastered graphic design and other design disciplines'
-          - 'Understands business aspects for greater impact'
+          - 'Mastered interaction design, knowledgeable in research to bridge gaps'
+          - 'Understands business aspects and identifies areas for greater impact'
       - level: 4
         criteria:
-          - 'Mastered multiple design disciplines, delegates to experts'
+          - 'Mastered multiple design disciplines, knows when to delegate to experts'
       - level: 5
         criteria:
           - 'Broad knowledge, adapts quickly to new concepts and contexts'
       - level: 6
         criteria:
-          - 'Immense knowledge and high-level understanding of function’s intersection with company and business'
+          - "Immense knowledge with a high-level understanding of function's intersection with company and business"
   - name: 'ownership'
     title: '🔑 Ownership'
     content:
       - level: 1
         criteria:
-          - 'Owns and completes well-defined tasks reliably'
-          - 'Provides accurate task estimates, communicates clearly'
-          - 'Seeks help timely, never misses a deadline without reason'
+          - 'Acknowledges role in owning work end-to-end'
+          - 'Communicates clearly with PMs and designers for support'
+          - 'Seeks help timely, strives for highest quality in work'
       - level: 2
         criteria:
           - 'Owns significant, impact-driven tasks and projects'
-          - 'Offers art direction in complex problems'
+          - 'Offers product direction in complex problems'
       - level: 3
         criteria:
           - 'Defines and owns large tasks, coordinates well with others'
-          - 'Art direction and execution are effortless'
+          - 'Product vision, direction, and execution are well-managed'
       - level: 4
         criteria:
           - 'Defines building blocks for long-term vision'
@@ -63,9 +64,9 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Seeks information and feedback for tasks'
-          - 'Communicates back to impacted parties'
-          - 'Learns from mistakes, takes feedback graciously'
+          - 'Works with designers for decision-making insights'
+          - 'Seeks and utilizes feedback effectively'
+          - 'Supports other designers, comfortable challenging decisions'
       - level: 2
         criteria:
           - 'Provides feedback and guidance to peers'

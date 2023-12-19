@@ -1,7 +1,7 @@
 ---
 path: '/design/user-research'
 title: '🎯 User Research Framework'
-sidebarTitle: '🎯 User Research'
+sidebarTitle: '🎯 UX'
 sidebarGroup: 'design'
 yaml: true
 levels: 6
