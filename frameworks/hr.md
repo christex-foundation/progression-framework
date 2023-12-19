@@ -1,7 +1,7 @@
 ---
-path: '/frameworks/people'
-title: '🙂 People'
-sidebarTitle: '🙂 People'
+path: '/frameworks/hr'
+title: '🙂 HR'
+sidebarTitle: '🙂 HR'
 sidebarGroup:
 yaml: true
 levels: 7
