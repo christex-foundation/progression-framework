@@ -13,7 +13,7 @@ topics:
       - level: 1
         criteria:
           - 'Understands basics of visual and interaction design'
-          - 'Experience using Sketch or similar tools for design work'
+          - 'Experience using Figma or similar tools for design work'
           - 'Driven to master the craft and understand design fundamentals and history'
       - level: 2
         criteria:
