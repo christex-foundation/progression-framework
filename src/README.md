@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.christex.foundation">
-    <img alt="Christex favicon" src="/static/images/favicon.png" width="60" />
+    <img alt="Christex favicon" src="https://github.com/christex-foundation/progression-framework/blob/master/src/images/favicon.png?raw=true" width="60" />
   </a>
 </p>
 <h1 align="center">
