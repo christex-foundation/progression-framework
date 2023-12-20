@@ -1,10 +1,9 @@
 ---
-path: '/engineering/mobile'
-title: '👩‍💻 Mobile Engineering Framework'
-sidebarTitle: '👩‍💻 Mobile'
-sidebarGroup: 'engineering'
+path: '/engineering'
+title: '🌐 Engineering Framework'
+sidebarTitle: '🌐 Engineering'
 yaml: true
-levels: 6
+levels: 4
 homepage: true
 topics:
   - name: 'communication'
@@ -142,6 +141,9 @@ topics:
           - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
           - 'Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)'
           - 'Builds simple tools or iterates existing tools for the benefit of all engineers'
+          - 'Helps Product Managers and Designers to understand and consider non-functional requirements in the product development process'
+          - 'Promotes security good practice and helps other engineers to deepen their security knowledge'
+          - 'Promotes performance good practice and helps other engineers to deepen their performance knowledge'
       - level: 4
         criteria:
           - 'Positively influences engineers in the wider org'
@@ -151,6 +153,8 @@ topics:
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - 'Shapes the direction of systems designs with less experienced engineers'
           - 'Breaks down delivery and knowledge silos in their squad'
+          - 'Keeps up to date with industry developments and feeds specific technical and non-functional recommendations back into the business'
+          - 'Proactively identifies opportunities to improve company culture around coding standards and non-functional requirements'
       - level: 5
         criteria:
           - 'Represents Christex Foundation at conferences/events'
@@ -166,86 +170,118 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Writes Flutter, Swift or Kotlin code according to our style guides'
-          - 'Proactive in asking questions, explains what they have tried so far and why that hasn’t worked'
-          - 'Updates layout to existing screens'
-          - 'Builds simple screens or flows'
-          - 'Asks questions and actions feedback from PRs and other engineers'
-          - 'Fixes simple bugs or issues'
+          - 'Learns to write semantic HTML and CSS following guidance and training materials'
+          - 'Learns to write correct JavaScript following guidance and training materials'
+          - 'Uses DevTools effectively to increase productivity during development and debugging'
+          - 'Implements simple components'
+          - 'Fixes simple bugs'
+          - 'Asks questions and actions feedback from mentor'
+        exampleCriteria:
+          - criteria: 'Uses git to manage the development workflow effectively'
+            examples:
+              - 'Checkout, Push, Pull, Branch, Diff, Merge, Stash, Rebase, etc.'
       - level: 2
         criteria:
+          - 'Writes semantic HTML and CSS following accepted best practices'
+          - 'Learns to write correct Rust code, following guidance and training materials'
+          - 'Design/Write simple Smart Contracts'
+          - 'Deploy Smart Contracts to different clusters'
           - 'Uses appropriate algorithms and data structures to solve problems'
-          - 'Uses appropriate design patterns'
-          - 'Responsible for building small to medium sized new features inside the app'
-          - 'Modifies and improves existing parts of the app (and reasons about the improvements)'
-          - 'Adds basic UI tests or snapshots'
-          - 'Adds basic unit tests'
-          - 'Proactively learns new things and seeks out people who can help them'
-          - 'Manages the release master process'
-          - 'Contributes to Android or iOS chat'
-          - 'Appropriately uses common functional reactive programming concepts'
-          - 'Designs database models'
-          - 'Appropriately handles errors or failure conditions in their code'
-          - 'Works with designers to handle empty, error, and loading states in multi screen flows'
+          - 'Writes types to statically type-check the code at compile-time'
+          - 'Writes automated unit and end-to-end tests following accepted best practices'
+          - 'Deploys web services into staging and production following our deployment guidelines'
+          - 'Assists on the design of new features and components'
+          - 'Solves well-defined tasks within our current developer abstractions'
+          - 'Integrates with backend APIs, smart contracts and handles successful and failed responses properly'
+          - 'Works with users to improve new and existing simple features iteratively'
+          - 'Runs automated auditing tools such as Lighthouse before submitting a PR for review'
+          - 'Demonstrates awareness of a range of security considerations, and mitigates against them'
+          - 'Has multiple examples of where performance was considered as part of a solution'
         exampleCriteria:
-          - criteria: 'Integrates with new APIs'
+          - criteria: 'Applies fundamental UX and accessibility principles to common problems such as form design'
             examples:
-              - 'Can add an integration with a new backend endpoint and handle return data'
-              - 'Can add an integration with a documented third party API'
-          - criteria: 'Uses concurrency appropriately'
+              - 'Referencing (and improving) existing Design Systems where possible'
+          - criteria: 'Writes correct JavaScript code following accepted best practices'
             examples:
-              - 'Can reason whether to use asynchronous or synchronous operations'
-              - 'Understands impact on app performance to use either'
+              - 'Follows our JavaScript Coding Conventions & Best Practices; uses language-level primitives correctly'
+          - criteria: 'Implements simple components following accepted best practices'
+            examples:
+              - 'Follows React/Svelte Development Conventions & Best Practices; uses component state and lifecycle methods correctly'
+          - criteria: 'Writes correct Rust code following accepted best practices'
+            examples:
+              - 'Follows our Coding Conventions & Best Practices, uses language-level primitives correctly'
       - level: 3
         criteria:
-          - 'Uses tools to diagnose and improve performance issues'
-          - 'Builds non-trivial, coordinated app flows with multiple services and data sources'
-          - 'Builds complex UI layouts in code or via IDE'
-          - 'Contributes to group standards, impactful in improving our processes'
-          - 'Proactively improves empty, error and loading states in screens & flows they encounter, works closely with designers to identify problem areas and suggest improvements'
+          - 'Uses appropriate design patterns to solve problems'
+          - 'Identifies obvious deficiencies in the development processes and supports activities to improve them'
+          - 'Assists more experienced engineers on the design of larger features'
+          - 'Modifies and improves code outside of the developer abstractions and reasons about the improvements effectively'
+          - 'Fixes bugs in asynchronous code'
+          - 'Debugs production issues'
+          - 'Explains developer abstractions and how to contribute to them to other engineers'
+          - 'Collaborates with designers and user researchers to create prototypes and to evaluate them'
+          - 'Differentiates between user needs and desires and prioritises accordingly'
+          - 'Co-ordinates complex deployments and smart contract / account migrations'
+          - 'Produces technical designs that include a consideration of scalability'
+          - 'Debugs production issues'
         exampleCriteria:
-          - criteria: 'Adds migrations to handle changes between old and new app versions'
+          - criteria: 'Implements non-trivial components'
             examples:
-              - 'Owning migration from major language versions'
-              - 'Handling complex changes to third party dependencies'
-              - 'Writing migrations from one data schema to another'
+              - 'Uses modern CSS features like flex-box, grid, media-queries, selectors, etc'
+              - 'Uses advanced component patterns higher-order components, render props, controlled components, compound components'
+          - criteria: 'Writes effective asynchronous code'
+            examples:
+              - 'Demonstrates solid understanding of the JavaScript runtime; reasons effectively about the runtime behaviour of asynchronous code; uses async/await and generators to implement asynchronous code'
+          - criteria: 'Writes effective JavaScript by applying fundamental functional and reactive principles and techniques where appropriate and guides others in so doing'
+            examples:
+              - 'Uses uses event streams, immutable data structures, pure functions, functional composition, memoization, etc.'
+          - criteria: 'Considers metrics when developing, and uses appropriate services to check quality levels'
+            examples:
+              - 'A range, from services such as Lighthouse, WebPageTest, WAVE etc'
+          - criteria: 'Writes idiomatic Rust code'
+            examples:
+              - 'Follows the guidelines in Idiomatic Rust (https://github.com/mre/idiomatic-rust), avoids using patterns that are idiomatic in other languages'
       - level: 4
         criteria:
           - 'Writes code that serves as a definitive example for new engineers'
-          - 'Identifies and fixes security vulnerabilities'
-          - 'Sought out for reviewing complex changes or commenting on larger scale proposals'
-          - 'Builds flows that serve as an example of high quality interaction design'
-        exampleCriteria:
-          - criteria: 'Owns and coordinates large scale architectural changes to the entire codebase'
-            examples:
-              - 'Researches potential solutions and evaluates how they solve the problem.'
-              - 'Able to articulate _why_ a change in architecture is needed and the impact this will have on the team and business.'
-              - 'Dissects into discrete tasks and works with other team members to resolve issues.'
-              - 'Examples include network request lifecycle and authorisation, model layer and persistence, app navigation and coordination (eg deep links), and modularisation'
-          - criteria: 'Debugs complex problems across a variety of subject areas'
-            examples:
-              - 'Seeks out technical knowledge to compliment their own, researches and patches third party libraries where needed. Uses reasoning to debug and find the root cause of issues.'
-              - 'Articulates problem and proposed solution to both technical and non technical peers.'
-          - criteria: 'Writes proposals and architects complex app flows'
-            examples:
-              - 'Coordinates with backend developers around API specifications and requirements.'
-              - 'Able to digest into discrete tasks and work with peers to solve problem in an efficient manner to avoid blockers.'
+          - 'Leads the refactoring (de-cruftification) of complex systems'
+          - 'Makes contributions to library code or other core parts of the applications'
+          - 'Makes contributions to our development tools and build processes'
+          - 'Writes complex asynchronous and concurrent code'
+          - 'Identifies optimisation opportunities in the development process and contributes to the implementation of proposed solutions'
+          - 'Builds maintainable and flexible components and applications'
+          - 'Debugs and fixes complex issues at speed'
+          - 'Identifies and fixes security weaknesses'
+          - 'Identifies and fixes performance bottlenecks in applications'
+          - 'Explains all aspects of the web platform to new engineers'
+          - 'Implements services or libraries that require a deep level of domain knowledge'
+          - 'Puts users first and can manage competing priorities effectively'
       - level: 5
         criteria:
-          - 'Anticipates large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects.'
-          - 'Takes high level requirements and turns them into discrete technical concerns'
-          - 'Instills and maintains a culture of high quality interaction design in their discipline'
-        exampleCriteria:
-          - criteria: 'Coordinates group efforts across horizontal'
-            examples:
-              - 'A technical authority for iOS/Android on multiple teams, working with team leads and other engineers across the company.'
-          - criteria: 'Anticipates platform/project needs from other teams, technical debt and common problems'
-            examples:
-              - 'Proactively seeks out solutions for problems not owned by product teams, works with others to scope and identify solutions. Justifies effort to PMs in order to schedule work.'
-          - criteria: 'Takes charge of low level deep dives when debugging complex issues.'
-            examples:
-              - 'Able to handle situations where domain knowledge does not exist in the company and can lead the effort to resolve them.'
-              - "For example, resolving issues with our compiler and mapping out code paths for 'hard to reproduce' issues"
+          - 'Makes major contributions to library code or core parts of the application'
+          - 'Contributes to external technologies or libraries that we depend on'
+          - 'Anticipates platform and project needs, technical debt and common issues intuitively'
+          - 'Develops clear technical solutions from ambiguous requirements'
+          - 'Produces technical designs for large complex projects'
+          - 'Uncovers and fixes tricky bugs that have previously evaded detection'
+          - 'Demonstrates a deep level of knowledge in a specific area'
+          - 'Serves as a technical authority on a technology or an area of the codebase'
+          - 'Reviews technical designs and pull requests for large complex projects'
+          - 'Encourages and supports other engineers to achieve outstanding results'
+          - 'Creates major contributions to our documentation, and creates documents that provide guidelines and best practices to other engineers'
+          - 'Works with technical and non-technical stakeholders to identify high-level requirements and turns them into discrete technical concerns'
+      - level: 6
+        criteria:
+          - 'Makes major contributions to technologies and libraries that we depend on'
+          - 'Uses a risk-based approach and manages technical debt systematically to focus the team’s design and development efforts on the most important problems'
+          - 'Works with business and technology stakeholder to translate difficult business problems into technical designs, thereby ensuring that the organisation derives maximum value from services'
+          - 'Identifies architecturally significant functional and non-functional requirements, identifies conflicts among them, and defines possible trade-offs scenarios'
+          - 'Articulates high-level technical goals, concerns, trade-offs, and decisions to the rest of the company effectively'
+          - 'Facilitates technical decision making in complex and ambiguous situations'
+          - 'Promotes architectural thinking and good engineering practices at scale'
+          - 'Makes improvements that affect important non-functional requirements that have an effect on the entire web-platform'
+          - 'Serves as a technical authority in the wider engineering community'
+          - 'Identifies and explores opportunities for service and business improvement'
 ---
 
 ### About our engineering progression frameworks
@@ -254,7 +290,7 @@ The engineering progression framework is a tool that helps engineers and manager
 
 - make development and career plans
 - talk about what we’re looking for from engineers in a consistent way
-- set a fair level of compensation.
+- set a fair level of compensation
 
 The framework is a compass, not a GPS.
 
@@ -270,9 +306,9 @@ The framework covers all the things we’re looking for from engineers at Christ
 - Comms & Feedback - How you interact with others
 - Leadership - How people around you become better and more impactful
 
-We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+We sort them into four levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–C. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
 
-Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
+Your manager and People squad will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
 
@@ -280,7 +316,6 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
 - Engineering progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
-- You can find some more information in these links. If that doesn't answer most of your questions, please ask your manager.
 
 ### Give us your feedback!
 
