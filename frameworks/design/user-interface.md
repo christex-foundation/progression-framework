@@ -1,7 +1,7 @@
 ---
 path: '/design/user-interface'
-title: '🎯 User Interface Framework'
-sidebarTitle: '🎯 UI'
+title: '🎨 User Interface Framework'
+sidebarTitle: '🎨 UI'
 sidebarGroup: 'design'
 yaml: true
 levels: 3

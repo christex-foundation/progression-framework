@@ -1,7 +1,7 @@
 ---
 path: '/design/graphic-design'
-title: '🎯 Graphic Design Framework'
-sidebarTitle: '🎯 Graphic'
+title: '🎨 Graphic Design Framework'
+sidebarTitle: '🎨 Graphic'
 sidebarGroup: 'design'
 yaml: true
 levels: 3
