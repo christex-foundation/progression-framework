@@ -1,5 +1,5 @@
 ---
-path: '/frameworks/hr'
+path: '/frameworks/hr/'
 title: '🙂 People Ops'
 sidebarTitle: '🙂 People Ops'
 sidebarGroup:

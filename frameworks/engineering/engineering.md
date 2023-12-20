@@ -1,5 +1,5 @@
 ---
-path: '/engineering'
+path: '/engineering/'
 title: '🌐 Engineering Framework'
 sidebarTitle: '🌐 Engineering'
 yaml: true

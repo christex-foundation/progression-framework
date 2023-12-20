@@ -1,5 +1,5 @@
 ---
-path: '/marketing'
+path: '/marketing/'
 title: '🎉 Marketing Framework'
 sidebarTitle: '🎉 Marketing'
 sidebarGroup:

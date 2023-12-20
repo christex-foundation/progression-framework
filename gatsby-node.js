@@ -25,7 +25,6 @@ exports.createPages = ({ actions, graphql }) => {
   graphql(`
     {
       allMarkdownRemark(
-        sort: { order: DESC, fields: [] }
         limit: 1000
       ) {
         edges {

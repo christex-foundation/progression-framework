@@ -1,5 +1,5 @@
 ---
-path: '/design/graphic-design'
+path: '/design/graphic-design/'
 title: '🎨 Graphic Design Framework'
 sidebarTitle: '🎨 Graphic'
 sidebarGroup: 'design'

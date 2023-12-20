@@ -1,5 +1,5 @@
 ---
-path: '/design/user-interface'
+path: '/design/user-interface/'
 title: '🎨 User Interface Framework'
 sidebarTitle: '🎨 UI'
 sidebarGroup: 'design'

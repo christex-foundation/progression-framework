@@ -6,11 +6,9 @@ import LevelledRenderer from '../components/renderers/levelledRenderer'
 import TextRenderer from '../components/renderers/textRenderer'
 import '../css/main.min.css'
 
-type Props = {
-  data: Object,
-}
 
-class View extends React.Component<Props> {
+
+class View extends React.Component {
   render() {
     const { pageData, genericData, allMarkdownRemark } = this.props.data
     const { frontmatter: pageFrontmatter, html } = pageData
@@ -36,7 +34,7 @@ class View extends React.Component<Props> {
   }
 }
 
-export default function FrameworkView({ data }: Object) {
+export default function FrameworkView({ data }) {
   return <View data={data} />
 }
 
@@ -79,7 +77,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    genericData: markdownRemark(frontmatter: { path: { eq: "/generic" } }) {
+    genericData: markdownRemark(frontmatter: { path: { eq: "/generic/" } }) {
       html
       frontmatter {
         path

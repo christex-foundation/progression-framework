@@ -1,5 +1,5 @@
 ---
-path: '/design/user-research'
+path: '/design/user-research/'
 title: '🎯 User Research Framework'
 sidebarTitle: '🎯 UX'
 sidebarGroup: 'design'
