@@ -39,13 +39,9 @@ export default class Index extends React.Component<Props> {
               Take a look around and let us know what you think! 🚀
             </DescriptionText>
             <DescriptionText>
-              Our progression frameworks, adapted from those used by
-              <a href="https://monzo.com" target="_blank" rel="noreferrer">
-                {' '}
-                Monzo
-              </a>
-              , serve as the foundation for our evaluation and compensation
-              processes.
+              Our progression frameworks, adapted from those used in the
+              industry, serve as the foundation for our evaluation and
+              compensation processes.
             </DescriptionText>
           </Description>
         </DescriptionView>
