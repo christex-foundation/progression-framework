@@ -59,15 +59,14 @@ topics:
       - level: 1
         criteria:
           - 'Closely tracks metrics for features. Uses them to spot issues and measure success.'
-          - 'Understands how squad’s work links to business objectives and key performance indicators.'
+          - 'Understands how squad’s work links to business objectives.'
       - level: 2
         criteria:
-          - 'Collaborates with product analyst to set up the right things to track. Understand what a metric actually measures and how reliable/direct it is.'
+          - 'Understand what a metric actually measures and how reliable/direct it is.'
           - 'Closely tracks performance of their squad, and how to influence it. Draws reliable conclusions from qualitative and quantitative data.'
       - level: 3
         criteria:
           - 'Closely tracks and understands how metrics interact with and impact other group/business metrics.'
-          - 'Identifies when and how to set experiments, supported by a product data analyst. Incorporates results into future iterations.'
           - 'Can assimilate new information easily, and can synthesise qualitative and quantitative inputs to form reliable insights into user needs and behaviour.'
       - level: 4
         criteria:
@@ -78,15 +77,15 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Understands and appreciates the appropriate use of HTML, CSS, JS and native code.'
           - 'Demonstrates appetite and aptitude to learn about the context the product operates in.'
       - level: 2
         criteria:
-          - 'Understands core principles of web technologies, including HTTP(S)-based interactions between front-end clients and back-end servers/microservices and APIs.'
+          - 'Understands and appreciates the appropriate use of HTML, CSS, JS and native code.'
+          - 'Understands core principles of web technologies and smart contracts'
           - 'Understands the need to consider, and takes, expert advice. Applies the concepts correctly and demonstrates a strong interest in their area.'
       - level: 3
         criteria:
-          - 'Understands how code is tested, deployed and version-controlled for backend microservices, native apps and web interfaces.'
+          - 'Understands how code is tested, deployed and version-controlled for smart contracts, native apps and web interfaces.'
           - 'Develops and maintains solid foundation of market knowledge in their area, proactively identifies potential issues/risks.'
       - level: 4
         criteria:
@@ -116,7 +115,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - 'Collaborates daily with members of the product squad to ship and iterate.'
+          - 'Collaborates daily with members of the product and design squads to ship and iterate.'
           - 'Understands the objectives of and participates actively in team ceremonies. Prepared and organised to make the most of squad time.'
       - level: 2
         criteria:
@@ -139,7 +138,7 @@ topics:
       - level: 1
         criteria:
           - 'Seeks out the information they need to solve a problem.'
-          - 'Keeps stakeholders like COps, legal, marketing, finance updated on progress and ensures they have what they need.'
+          - 'Keeps stakeholders like marketing, finance updated on progress and ensures they have what they need.'
           - 'Able to clearly articulate what we’re working on and why.'
       - level: 2
         criteria:
@@ -149,7 +148,7 @@ topics:
       - level: 3
         criteria:
           - 'Can gather influence and support for their work, confidently debating and defending their decisions and approach.'
-          - 'Communicates effectively to a wide range of stakeholders, e.g. sharing update with ExCo/all hands or community.'
+          - 'Communicates effectively to a wide range of stakeholders, e.g. sharing update with all hands or community.'
       - level: 4
         criteria:
           - 'Ensures the team has strong relationships with stakeholders, fully recognises their constraints and concerns and creates mutual recognition and trust.'

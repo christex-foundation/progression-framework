@@ -4,7 +4,7 @@ title: '🎉 Marketing Framework'
 sidebarTitle: '🎉 Marketing'
 sidebarGroup:
 yaml: true
-levels: 7
+levels: 4
 homepage: false
 topics:
   - name: 'domain-knowledge'
