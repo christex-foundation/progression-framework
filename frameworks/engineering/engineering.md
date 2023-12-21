@@ -1,5 +1,5 @@
 ---
-path: '/engineering/'
+path: '/engineering/engineer/'
 title: '🌐 Engineering Framework'
 sidebarTitle: '🌐 Engineering'
 sidebarGroup: 'engineering'
