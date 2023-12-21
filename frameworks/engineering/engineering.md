@@ -2,6 +2,7 @@
 path: '/engineering/'
 title: '🌐 Engineering Framework'
 sidebarTitle: '🌐 Engineering'
+sidebarGroup: 'engineering'
 yaml: true
 levels: 4
 homepage: true
