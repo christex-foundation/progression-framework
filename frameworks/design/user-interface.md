@@ -4,7 +4,7 @@ title: '🎨 User Interface Framework'
 sidebarTitle: '🎨 UI'
 sidebarGroup: 'design'
 yaml: true
-levels: 3
+levels: 4
 homepage: true
 topics:
   - name: 'knowledge'
@@ -27,6 +27,7 @@ topics:
       - level: 4
         criteria:
           - 'Mastered multiple design disciplines, knows when to delegate to experts'
+          - 'Has strong cross-functional domain knowledge'
       - level: 5
         criteria:
           - 'Broad knowledge, adapts quickly to new concepts and contexts'

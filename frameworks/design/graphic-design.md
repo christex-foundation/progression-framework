@@ -4,7 +4,7 @@ title: '🎨 Graphic Design Framework'
 sidebarTitle: '🎨 Graphic'
 sidebarGroup: 'design'
 yaml: true
-levels: 3
+levels: 4
 homepage: true
 topics:
   - name: 'knowledge'
@@ -26,6 +26,7 @@ topics:
       - level: 4
         criteria:
           - 'Mastered multiple design disciplines, delegates to experts'
+          - 'Has strong cross-functional domain knowledge'
       - level: 5
         criteria:
           - 'Broad knowledge, adapts quickly to new concepts and contexts'
